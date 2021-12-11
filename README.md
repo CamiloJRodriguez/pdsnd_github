@@ -16,6 +16,7 @@ In this project:
 
     - Name project, author and import libraries
     - Indicate where import data
+    - Indicate where functions begin
 
 ### Software or tools:
 
