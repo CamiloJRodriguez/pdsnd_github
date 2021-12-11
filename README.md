@@ -15,6 +15,7 @@ In this project:
 1.  I improve the documentation:
 
     - Name project, author and import libraries
+    - Indicate where import data
 
 ### Software or tools:
 
