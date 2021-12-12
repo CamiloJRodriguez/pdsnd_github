@@ -1,3 +1,7 @@
+# Title: Bikeshare US Project
+# Author: Camilo Jiménez
+
+# Import libraries
 import time
 import pandas as pd
 import numpy as np
