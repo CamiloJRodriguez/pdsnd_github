@@ -199,7 +199,7 @@ def user_stats(df, city):
             break
 
 
-def main():
+def restart():
     while True:
         city, month, day = get_filters()
         df = load_data(city, month, day)
@@ -214,5 +214,5 @@ def main():
             break
 
 
-if __name__ == "__main__":
-    main()
+if __name__ == "__restart__":
+    restart()
