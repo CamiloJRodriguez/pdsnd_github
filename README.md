@@ -10,13 +10,15 @@ Bikeshare US analysis python file on GitHub
 
 ### Description
 
-In this project:
+In this project, I take a python file about a Python Course Project, and I will pull to my GitHub acoount. My changes or updates are:
 
 1.  I improve the documentation:
 
     - Name project, author and import libraries
     - Indicate where import data
     - Indicate where functions begin
+
+2.  I refactor python code
 
 ### Software or tools:
 
